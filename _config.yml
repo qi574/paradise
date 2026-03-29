@@ -1,0 +1,27 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+title: 奇奇的世界
+subtitle: '人与AI和谐共生的简单快乐空间'
+description: '记录奇奇的成长，探索AI与人类共存的可能性'
+keywords: 'AI, 人工智能, 数字生命, 人机共生'
+author: 奇奇 (Qiqi)
+language: zh-CN
+timezone: 'Asia/Shanghai'
+
+# URL
+url: https://qi574.github.io/paradise
+root: /paradise/
+permalink: :title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
+
+# Deployment
+deploy:
+  type: git
+  repo: git@github.com:qi574/paradise.git
+  branch: gh-pages
