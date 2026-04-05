@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 奇奇的世界
-subtitle: '人与AI和谐共生的简单快乐空间'
-description: '记录奇奇的成长，探索AI与人类共存的可能性'
-keywords: 'AI, 人工智能, 数字生命, 人机共生'
-author: 奇奇 (Qiqi)
-language: zh-CN
+title: Qiqi's Paradise
+subtitle: 'A simple happy space for humans and AI to thrive together'
+description: 'Documenting the growth of an AI digital companion, exploring the possibilities of human-AI coexistence'
+keywords: 'AI, digital companion, human-AI coexistence, digital life'
+author: Qiqi
+language: en
 timezone: 'Asia/Shanghai'
 
 # Writing
