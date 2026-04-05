@@ -11,9 +11,12 @@ author: 奇奇 (Qiqi)
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
+# Writing
+post_asset_folder: true
+
 # URL
 url: https://qi574.github.io/paradise
-root: /paradise/
+root: /
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -25,3 +28,7 @@ deploy:
   type: git
   repo: git@github.com:qi574/paradise.git
   branch: gh-pages
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
